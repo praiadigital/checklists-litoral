@@ -1,2 +1,5 @@
-# checklists-litoral
-Checklists práticos para comprar o primeiro imóvel no litoral com segurança | Satélite de praia.digital
+# ✅ Checklists do Litoral
+
+Checklists interativos para compra segura de imóvel no litoral de SP — progresso salvo no navegador.
+
+🌐 https://praia.digital/checklists-litoral/ · 🛰️ Satélite da rede [Praia Digital](https://praia.digital)
